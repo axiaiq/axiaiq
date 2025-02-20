@@ -48,7 +48,7 @@ Hi, I'm **Axia**, an audio developer specializing in **JS** and **HTML/CSS**. I 
 
 ## 🛠️ Skills
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,figma,js,ps,ai,ae,au,discordjs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,figma,js,ps,ae,au,discordjs)](https://skillicons.dev)
 
 ---
 
