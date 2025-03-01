@@ -63,7 +63,7 @@ Hi, I'm **Axia**, an audio developer learning **JS** and **HTML/CSS**. I create 
 
 ## 🎉 Fun Facts
 
-- I enjoy video games and game design/gfx.
+- I enjoy video games and ui,ux & gfx.
 - I am a voice-over / audio editor.
 
 
