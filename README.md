@@ -4,7 +4,7 @@
 
 ![status](https://img.shields.io/badge/status-up-brightgreen)
 
-Hi, I'm **Axia**, an audio developer specializing in **JS** and **HTML/CSS**. I create automation tools for web radios/radios, as well as API systems connected to radio software or simpler tools to help manage their radio operations internally.
+Hi, I'm **Axia**, an audio developer learning **JS** and **HTML/CSS**. I create automation tools for web radios/radios, as well as API systems connected to radio software or simpler tools to help manage their radio operations internally.
 
 ---
 
@@ -64,7 +64,7 @@ Hi, I'm **Axia**, an audio developer specializing in **JS** and **HTML/CSS**. I 
 ## 🎉 Fun Facts
 
 - I enjoy video games and game design/gfx.
-- I am a voice-over /audio editor.
+- I am a voice-over / audio editor.
 
 
 
